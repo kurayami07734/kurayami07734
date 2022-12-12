@@ -18,5 +18,7 @@
  ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
  ## My GitHub Stats
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kurayami07734)
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurayami07734)
+![My top languages](https://github-readme-stats-kurayami07734.vercel.app/api/top-langs/?username=kurayami07734&theme=tokyonight&layout=compact)
+![Aditya's GitHub stats](https://github-readme-stats-kurayami07734.vercel.app/api?username=kurayami07734&theme=tokyonight&show_icons=true)
+   
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
