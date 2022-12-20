@@ -1,10 +1,12 @@
 ## Hi there 👋
-- 👋 Hi, I’m Aditya Ghidora (@kurayami07734)
+- 👋 Hi, I’m [Aditya Ghidora (@kurayami07734)](https://ghidora.tech)
 - 👀 I’m interested in Back-End Development and I aspire to become a Full Stack Engineer
 - 🌱 I’m currently pursuing Electrical Engineering at NIT Raipur
 - 💞️ I’m looking to collaborate on Flutter and Svelte projects.
 - 📫 How to reach me
-   <a href="https://www.linkedin.com/in/aditya-ghidora/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a href="mailto:ghidoraee@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+   
+   <a href="https://www.linkedin.com/in/aditya-ghidora/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a href="mailto:aditya@ghidora.tech?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 
  ## My Tech Stack
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,5 +22,3 @@
  ## My GitHub Stats
 ![My top languages](https://github-readme-stats-kurayami07734.vercel.app/api/top-langs/?username=kurayami07734&theme=tokyonight&layout=compact)
 ![Aditya's GitHub stats](https://github-readme-stats-kurayami07734.vercel.app/api?username=kurayami07734&theme=tokyonight&show_icons=true)
-   
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
