@@ -1,5 +1,4 @@
-## Hi there 👋
-- 👋 Hi, I’m [Aditya Ghidora (@kurayami07734)](https://ghidora.tech)
+# Hello there 👋, I’m Aditya Ghidora
 - 👀 I’m interested in Back-End Development and I aspire to become a Full Stack Engineer
 - 🌱 I’m currently pursuing Electrical Engineering at NIT Raipur
 - 💞️ I’m looking to collaborate on Flutter and Svelte projects.
