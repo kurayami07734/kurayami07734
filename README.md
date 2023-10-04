@@ -1,11 +1,11 @@
 # Hello there 👋, I’m Aditya Ghidora
-- 👀 I’m interested in Back-End Development and I aspire to become a Full Stack Engineer
+- 👀 I’m interested in Back-End Development
 - 🌱 I’m currently pursuing Electrical Engineering at NIT Raipur
-- 💞️ I’m looking to collaborate on Flutter and Svelte projects.
+- 💞️ I’m looking to collaborate on Python and C++.
 - 📫 How to reach me
    
    <a href="https://www.linkedin.com/in/aditya-ghidora/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-   <a href="mailto:aditya@ghidora.tech?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="mailto:adityaghidora@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 
  ## My Tech Stack
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
